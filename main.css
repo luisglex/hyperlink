@@ -50,6 +50,10 @@
     margin-bottom: 12px;
 }
 
+.link-section{
+    margin-bottom: 80px;
+}
+
 .icon-section__item{
     margin: 8px 12px;
 }
@@ -72,7 +76,7 @@
 
 .link-section__item--title{
     color: #fff;
-    font-weight: 00;
+    font-weight: 400;
     font-size: 18px;
     line-height: 24px;
     text-align: left;
