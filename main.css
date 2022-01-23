@@ -15,15 +15,15 @@
 .hero__image{
     width: 120px;
     height: 120px;
-    margin-top: 40px;
+    margin-top: 32px;
     margin-bottom: 16px;
 }
 
 .hero__card{
     display: block;
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.06);
     border-radius: 12px;
-    margin-top: -80px;
+    margin-top: -88px;
     margin-bottom: 20px;
 }
 
@@ -61,13 +61,13 @@
 .link-section__item{
     display: block;
     padding: 24px;
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.06);
     border-radius: 12px;
     margin-bottom: 20px;
 }
 
 .link-section__item:hover {
-    background: rgba(255, 255, 255, 0.12);
+    background: rgba(255, 255, 255, 0.08);
 }
 
 .link-section__item--icon{
