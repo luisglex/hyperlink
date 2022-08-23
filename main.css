@@ -15,7 +15,7 @@
 .hero__image{
     width: 120px;
     height: 120px;
-    margin-top: 32px;
+    margin-top: 20px;
     margin-bottom: 16px;
 }
 
@@ -67,7 +67,7 @@
 }
 
 .link-section__item:hover {
-    background: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.09);
 }
 
 .link-section__item--icon{
@@ -87,5 +87,4 @@
     .main {
         width: 528px;
     }
-    
 }
